@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmarSadashiva
 - 👀 I’m interested in coding and learning new technologies.
 - 🌱 I’m currently a Software Engineer by profession
-- 📫 Linked in: amar-sadashiv-a881a6201
+- 📫 Linked in: https://www.linkedin.com/in/amar-sadashiva/
 
 <!---
 AmarSadashiva/AmarSadashiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
