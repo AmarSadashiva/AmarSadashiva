@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AmarSadashiva
-- 👀 I’m interested in coding and learning new technologies.
-- 🌱 I’m currently a Software Engineer by profession
+- 👀 I’m pursuing MSCS at Arizona State University.
+- 🌱 I’m currently looking for Summer 2022 internships in the field of Software Engineering. 
+- I also have experience working as a Software Intern and Software Engineer.
 - 📫 Linked in: https://www.linkedin.com/in/amar-sadashiva/
 
 <!---
